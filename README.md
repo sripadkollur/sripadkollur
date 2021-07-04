@@ -1,5 +1,5 @@
 ---
-# Hi there, I'm Sripadwallabha D. Kollur 👋
+# Hi there, I'm Sripadwallabha D. Kollur (Sripad) 👋
 ## Introduction
 <p>
 I am a software programmer with a keen interest in solving challenging problems. 
