@@ -5,7 +5,7 @@
 I am a software programmer with a keen interest in solving challenging problems. 
 </p>
 <p>
-    <a href="https://www.linkedin.com/in/sripadkollur/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=black" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/sripadwallabha-kollur-5018b325/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=black" alt="LinkedIn"></a>
     <a href="https://leetcode.com/sripadkollur/"><img src="https://img.shields.io/badge/-Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=F89F1B" alt="LeetCode"></a>     <a href="https://twitter.com/KollurD"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=F89F1B" alt="Twitter"></a>
    
 </p>
